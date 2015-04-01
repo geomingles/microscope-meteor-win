@@ -15,6 +15,7 @@ ejson@1.0.6-rc.0
 email@1.0.6-rc.0
 fastclick@1.0.3-rc.0
 geojson-utils@1.0.3-rc.0
+geomingles:errors@0.0.1
 html-tools@1.0.4-rc.0
 htmljs@1.0.4-rc.0
 http@1.1.0-rc.0
@@ -40,6 +41,7 @@ minifiers@1.1.4-win.0
 minimongo@1.0.7-rc.0
 mobile-status-bar@1.0.3-rc.0
 mongo@1.1.0-rc.0
+mongo-livedata@1.0.8-rc.0
 npm-bcrypt@0.7.8_2
 observe-sequence@1.0.5-win.0
 ordered-dict@1.0.3-rc.0
