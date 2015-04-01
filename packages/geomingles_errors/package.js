@@ -19,7 +19,7 @@ Package.onUse(function(api) {
 });
 
 Package.onTest(function(api) {
-  api.use('tinytest');
-  api.use('geomingles:errors');
-  api.addFiles('geomingles_errors-tests.js');
+  api.use('geomingles:errors', 'client');
+  api.use(['tinytest', 'test-helpers'], 'client');
+  api.addFiles('geomingles_errors-tests.js', 'client');
 });
